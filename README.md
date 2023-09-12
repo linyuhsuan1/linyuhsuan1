@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shelly Lin</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **ESUN Bank.**
-
 - 🌱 I’m focusing on **React,Vue,tailwind,typeScript,etc.**
 
 - 📫 How to reach me **liny7544@gmail.com.**
